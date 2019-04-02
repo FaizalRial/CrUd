@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "971069703938",
+    "firebase_url": "https://caripom.firebaseio.com",
+    "project_id": "caripom",
+    "storage_bucket": "caripom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971069703938:android:ae3ce9f126b69a18",
+        "android_client_info": {
+          "package_name": "com.izol.caripom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971069703938-267g3m8p1ajr2492hehjftgra3bs5ro7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.izol.caripom",
+            "certificate_hash": "04adb45894ec5e98157286580516cf7ec20389a1"
+          }
+        },
+        {
+          "client_id": "971069703938-m5v736skqb9d1spb9j7a7gr801j6qut6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkWWsfEoaBSozF1yt9hN0O3tYkgFQDzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971069703938-m5v736skqb9d1spb9j7a7gr801j6qut6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
